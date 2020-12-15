@@ -1,0 +1,9 @@
+/ooniprobe
+/coverage.cov
+/testdata/gotmp
+*.jsonl
+.DS_Store
+*.tar.gz
+*.zip
+ooniprobe_checksums.txt
+ooniprobe_checksums.txt.asc
